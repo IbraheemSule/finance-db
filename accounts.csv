@@ -1,0 +1,36 @@
+AccountId,AccountCode,AccountName,RevenueOrExpense,Level1,Level2
+1,40200,Product Revenue,REVENUE,Income,Non Recurring Income
+2,40100,SaaS Revenue,REVENUE,Income,Recurring Income
+3,50210,Product Costs,EXPENSES,Cost of Goods Sold,Product COGS
+4,50100,Web Domain & Hosting Fees,EXPENSES,Cost of Goods Sold,SaaS COGS
+5,50200,Merchant Account Fees,EXPENSES,Cost of Goods Sold,SaaS COGS
+6,60100,Advertising & Marketing,EXPENSES,Operating Expenses,Advertising & Marketing
+7,60300,Conferences & Events,EXPENSES,Operating Expenses,Advertising & Marketing
+8,60200,Bank Charges & Fees,EXPENSES,Operating Expenses,Other G&A
+9,60400,Dues & Subscriptions,EXPENSES,Operating Expenses,Other G&A
+10,60450,Merchant Account Fees,EXPENSES,Operating Expenses,Other G&A
+11,60500,Insurance,EXPENSES,Operating Expenses,Other G&A
+12,60600,Office Expenses,EXPENSES,Operating Expenses,Other G&A
+13,60610,Office Supplies & Software,EXPENSES,Operating Expenses,Other G&A
+14,60620,Rent & Lease,EXPENSES,Operating Expenses,Other G&A
+15,60630,Utilities,EXPENSES,Operating Expenses,Other G&A
+16,60900,Taxes & Licenses,EXPENSES,Operating Expenses,Other G&A
+17,60800,Payroll Expenses,EXPENSES,Operating Expenses,Payroll
+18,60810,Salary & Wages,EXPENSES,Operating Expenses,Payroll
+19,60820,Payroll Taxes,EXPENSES,Operating Expenses,Payroll
+20,60830,Health Insurance,EXPENSES,Operating Expenses,Payroll
+21,60840,Payroll Processing Fees,EXPENSES,Operating Expenses,Payroll
+22,60850,Commissions Expense,EXPENSES,Operating Expenses,Payroll
+23,60700,Professional Services,EXPENSES,Operating Expenses,Professional Fees
+24,60710,Accounting Fees,EXPENSES,Operating Expenses,Professional Fees
+25,60720,Consulting Fees,EXPENSES,Operating Expenses,Professional Fees
+26,60730,Legal Fees,EXPENSES,Operating Expenses,Professional Fees
+27,60740,Recruiting Fees,EXPENSES,Operating Expenses,Professional Fees
+28,61000,"Travel, Meals & Entertainment",EXPENSES,Operating Expenses,Travel & Entertainment
+29,61010,Lodging,EXPENSES,Operating Expenses,Travel & Entertainment
+30,61020,Meals & Entertainment,EXPENSES,Operating Expenses,Travel & Entertainment
+31,61030,Travel,EXPENSES,Operating Expenses,Travel & Entertainment
+32,70100,Interest Income,REVENUE,Other Income,Other Income
+33,70200,Other Income,REVENUE,Other Income,Other Income
+34,80100,Depreciation Expense,EXPENSES,Other Expense,Other Expense
+35,80200,Interest Expense,EXPENSES,Other Expense,Other Expense

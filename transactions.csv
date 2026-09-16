@@ -1,0 +1,1390 @@
+TransactionId,TransactionDate,AccountCode,AccountName,ClassCode,ClassName,TransactionType,VendorOrClient,Memo,RevenueOrExpense,Amount
+1,2022-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,January SaaS Subscription,REVENUE,45000
+2,2022-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,January SaaS Subscription,REVENUE,38000
+3,2022-01-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,75000
+4,2022-01-05,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - January,EXPENSES,2000
+5,2022-01-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,1500
+6,2022-01-10,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,5000
+7,2022-01-10,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn Ads,Premium Advertising,EXPENSES,8500
+8,2022-01-15,60800,Payroll Expenses,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,6500
+9,2022-01-15,60800,Payroll Expenses,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,4500
+10,2022-01-20,61000,"Travel, Meals & Entertainment",S&M,Sales & Marketing,Expense,Marriott,Client Meeting Hotel Stay,EXPENSES,2500
+11,2022-01-25,60700,Professional Services,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4500
+12,2022-01-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,500
+13,2022-01-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,1500
+14,2022-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,February SaaS Subscription,REVENUE,45500
+15,2022-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,February SaaS Subscription,REVENUE,38500
+16,2022-02-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,76000
+17,2022-02-05,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - February,EXPENSES,2050
+18,2022-02-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,1520
+19,2022-02-10,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,5100
+20,2022-02-10,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn Ads,Premium Advertising,EXPENSES,8600
+21,2022-02-15,60800,Payroll Expenses,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,6550
+22,2022-02-15,60800,Payroll Expenses,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,4550
+23,2022-02-20,61000,"Travel, Meals & Entertainment",S&M,Sales & Marketing,Expense,Marriott,Client Meeting Hotel Stay,EXPENSES,2600
+24,2022-02-25,60700,Professional Services,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4600
+25,2022-02-28,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,550
+26,2022-02-28,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,1550
+27,2022-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,March SaaS Subscription,REVENUE,46000
+28,2022-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,March SaaS Subscription,REVENUE,39000
+29,2022-03-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,77000
+30,2022-03-05,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - March,EXPENSES,2100
+31,2022-03-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,1540
+32,2022-03-10,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,5200
+33,2022-03-10,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn Ads,Premium Advertising,EXPENSES,8700
+34,2022-03-15,60800,Payroll Expenses,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,6600
+35,2022-03-15,60800,Payroll Expenses,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,4600
+36,2022-03-20,61000,"Travel, Meals & Entertainment",S&M,Sales & Marketing,Expense,Marriott,Client Meeting Hotel Stay,EXPENSES,2650
+37,2022-03-25,60700,Professional Services,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4700
+38,2022-03-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,600
+39,2022-03-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,1600
+40,2022-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,April SaaS Subscription,REVENUE,46500
+41,2022-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,April SaaS Subscription,REVENUE,39500
+42,2022-04-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,78000
+43,2022-04-05,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - April,EXPENSES,2150
+44,2022-04-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,1560
+45,2022-04-10,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,5300
+46,2022-04-10,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn Ads,Premium Advertising,EXPENSES,8800
+47,2022-04-15,60800,Payroll Expenses,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,6650
+48,2022-04-15,60800,Payroll Expenses,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,4650
+49,2022-04-20,61000,"Travel, Meals & Entertainment",S&M,Sales & Marketing,Expense,Marriott,Client Meeting Hotel Stay,EXPENSES,2700
+50,2022-04-25,60700,Professional Services,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4800
+51,2022-04-30,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,620
+52,2022-04-30,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,1650
+53,2022-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,May SaaS Subscription,REVENUE,47000
+54,2022-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,May SaaS Subscription,REVENUE,40000
+55,2022-05-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,79000
+56,2022-05-05,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - May,EXPENSES,2200
+57,2022-05-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,1580
+58,2022-05-10,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,5400
+59,2022-05-10,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn Ads,Premium Advertising,EXPENSES,8900
+60,2022-05-15,60800,Payroll Expenses,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,6700
+61,2022-05-15,60800,Payroll Expenses,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,4700
+62,2022-05-20,61000,"Travel, Meals & Entertainment",S&M,Sales & Marketing,Expense,Marriott,Client Meeting Hotel Stay,EXPENSES,2750
+63,2022-05-25,60700,Professional Services,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+64,2022-05-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,640
+65,2022-05-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,1700
+66,2022-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,June SaaS Subscription,REVENUE,47500
+67,2022-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,June SaaS Subscription,REVENUE,40500
+68,2022-06-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,80000
+69,2022-06-05,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - June,EXPENSES,2250
+70,2022-06-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,1600
+71,2022-06-10,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,5500
+72,2022-06-10,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn Ads,Premium Advertising,EXPENSES,9000
+73,2022-06-15,60800,Payroll Expenses,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,6750
+74,2022-06-15,60800,Payroll Expenses,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,4750
+75,2022-06-20,61000,"Travel, Meals & Entertainment",S&M,Sales & Marketing,Expense,Marriott,Client Meeting Hotel Stay,EXPENSES,2800
+76,2022-06-25,60700,Professional Services,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,5000
+77,2022-06-30,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,660
+78,2022-06-30,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,1750
+79,2022-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,July SaaS Subscription,REVENUE,47800
+80,2022-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,July SaaS Subscription,REVENUE,40200
+81,2022-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,July SaaS Subscription,REVENUE,22500
+82,2022-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,62000
+83,2022-07-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,78500
+84,2022-07-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - July,EXPENSES,28900
+85,2022-07-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,6250
+86,2022-07-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,15500
+87,2022-07-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,9200
+88,2022-07-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2100
+89,2022-07-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1600
+90,2022-07-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,4700
+91,2022-07-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,15500
+92,2022-07-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,2600
+93,2022-07-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,2350
+94,2022-07-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,54000
+95,2022-07-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4650
+96,2022-07-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,8800
+97,2022-07-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,July SaaS Subscription,REVENUE,18500
+98,2022-07-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,45000
+99,2022-07-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5200
+100,2022-07-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,7800
+101,2022-07-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,46500
+102,2022-07-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,87500
+103,2022-07-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,67000
+104,2022-07-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,56500
+105,2022-07-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,3720
+106,2022-07-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7000
+107,2022-07-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5360
+108,2022-07-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4520
+109,2022-07-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,9300
+110,2022-07-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,17500
+111,2022-07-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,13400
+112,2022-07-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,11300
+113,2022-07-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,880
+114,2022-07-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,28500
+115,2022-07-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1550
+116,2022-07-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,8800
+117,2022-07-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2600
+118,2022-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,August SaaS Subscription,REVENUE,46900
+119,2022-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,August SaaS Subscription,REVENUE,39800
+120,2022-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,August SaaS Subscription,REVENUE,22100
+121,2022-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,August SaaS Subscription,REVENUE,15000
+122,2022-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,59500
+123,2022-08-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,76000
+124,2022-08-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - August,EXPENSES,29200
+125,2022-08-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,6100
+126,2022-08-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,15800
+127,2022-08-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,9300
+128,2022-08-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2100
+129,2022-08-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1600
+130,2022-08-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,4700
+131,2022-08-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,15500
+132,2022-08-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,2650
+133,2022-08-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,2400
+134,2022-08-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,53200
+135,2022-08-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4650
+136,2022-08-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,8800
+137,2022-08-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,August SaaS Subscription,REVENUE,18500
+138,2022-08-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,43500
+139,2022-08-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5200
+140,2022-08-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,7800
+141,2022-08-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,46500
+142,2022-08-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,87500
+143,2022-08-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,67000
+144,2022-08-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,56500
+145,2022-08-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,3720
+146,2022-08-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7000
+147,2022-08-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5360
+148,2022-08-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4520
+149,2022-08-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,9300
+150,2022-08-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,17500
+151,2022-08-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,13400
+152,2022-08-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,11300
+153,2022-08-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,880
+154,2022-08-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,28500
+155,2022-08-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1550
+156,2022-08-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,8800
+157,2022-08-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2600
+158,2022-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,September SaaS Subscription,REVENUE,48200
+159,2022-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,September SaaS Subscription,REVENUE,41000
+160,2022-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,September SaaS Subscription,REVENUE,22800
+161,2022-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,September SaaS Subscription,REVENUE,15500
+162,2022-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,September SaaS Subscription,REVENUE,28000
+163,2022-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,64500
+164,2022-09-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,82000
+165,2022-09-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - September,EXPENSES,30100
+166,2022-09-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,6300
+167,2022-09-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,16200
+168,2022-09-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,9500
+169,2022-09-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2100
+170,2022-09-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1600
+171,2022-09-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,4700
+172,2022-09-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,15500
+173,2022-09-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,2700
+174,2022-09-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,2550
+175,2022-09-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,57400
+176,2022-09-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4650
+177,2022-09-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,8800
+178,2022-09-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,September SaaS Subscription,REVENUE,18500
+179,2022-09-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,46500
+180,2022-09-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5200
+181,2022-09-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,7800
+182,2022-09-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,46500
+183,2022-09-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,87500
+184,2022-09-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,67000
+185,2022-09-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,56500
+186,2022-09-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,3720
+187,2022-09-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7000
+188,2022-09-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5360
+189,2022-09-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4520
+190,2022-09-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,9300
+191,2022-09-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,17500
+192,2022-09-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,13400
+193,2022-09-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,11300
+194,2022-09-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,880
+195,2022-09-30,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,29800
+196,2022-09-30,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1550
+197,2022-09-30,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,8800
+198,2022-09-30,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2600
+199,2022-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,October SaaS Subscription,REVENUE,49500
+200,2022-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,October SaaS Subscription,REVENUE,42000
+201,2022-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,October SaaS Subscription,REVENUE,23500
+202,2022-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,October SaaS Subscription,REVENUE,16000
+203,2022-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,October SaaS Subscription,REVENUE,28500
+204,2022-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,68000
+205,2022-10-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,85000
+206,2022-10-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - October,EXPENSES,31200
+207,2022-10-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,6500
+208,2022-10-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,18500
+209,2022-10-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,10200
+210,2022-10-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2100
+211,2022-10-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1600
+212,2022-10-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,4700
+213,2022-10-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,15500
+214,2022-10-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,2800
+215,2022-10-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,2700
+216,2022-10-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,59500
+217,2022-10-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4650
+218,2022-10-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,8800
+219,2022-10-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,October SaaS Subscription,REVENUE,19000
+220,2022-10-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,49500
+221,2022-10-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5200
+222,2022-10-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,7800
+223,2022-10-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,47000
+224,2022-10-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,88500
+225,2022-10-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,68000
+226,2022-10-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,57500
+227,2022-10-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,3760
+228,2022-10-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7080
+229,2022-10-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5440
+230,2022-10-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4600
+231,2022-10-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,9300
+232,2022-10-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,17500
+233,2022-10-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,13400
+234,2022-10-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,11300
+235,2022-10-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,880
+236,2022-10-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,31500
+237,2022-10-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1600
+238,2022-10-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,8800
+239,2022-10-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2600
+240,2022-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,November SaaS Subscription,REVENUE,50500
+241,2022-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,November SaaS Subscription,REVENUE,43000
+242,2022-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,November SaaS Subscription,REVENUE,24000
+243,2022-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,November SaaS Subscription,REVENUE,16500
+244,2022-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,November SaaS Subscription,REVENUE,29000
+245,2022-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,72000
+246,2022-11-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,88000
+247,2022-11-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - November,EXPENSES,32500
+248,2022-11-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,6800
+249,2022-11-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,22000
+250,2022-11-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,11500
+251,2022-11-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2100
+252,2022-11-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1600
+253,2022-11-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,4700
+254,2022-11-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,15500
+255,2022-11-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,2900
+256,2022-11-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,2850
+257,2022-11-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,61600
+258,2022-11-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4650
+259,2022-11-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,8800
+260,2022-11-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,November SaaS Subscription,REVENUE,19500
+261,2022-11-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,52000
+262,2022-11-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5200
+263,2022-11-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,7800
+264,2022-11-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,47000
+265,2022-11-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,88500
+266,2022-11-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,68000
+267,2022-11-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,57500
+268,2022-11-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,3760
+269,2022-11-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7080
+270,2022-11-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5440
+271,2022-11-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4600
+272,2022-11-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,9300
+273,2022-11-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,17500
+274,2022-11-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,13400
+275,2022-11-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,11300
+276,2022-11-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,880
+277,2022-11-30,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,33500
+278,2022-11-30,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1600
+279,2022-11-30,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,8800
+280,2022-11-30,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2600
+281,2022-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,December SaaS Subscription,REVENUE,51500
+282,2022-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,December SaaS Subscription,REVENUE,44000
+283,2022-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,December SaaS Subscription,REVENUE,24500
+284,2022-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,December SaaS Subscription,REVENUE,17000
+285,2022-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,December SaaS Subscription,REVENUE,29500
+286,2022-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,75000
+287,2022-12-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,92000
+288,2022-12-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - December,EXPENSES,33800
+289,2022-12-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,7100
+290,2022-12-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,25000
+291,2022-12-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,12800
+292,2022-12-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2100
+293,2022-12-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1600
+294,2022-12-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,4700
+295,2022-12-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,15500
+296,2022-12-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,3000
+297,2022-12-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3100
+298,2022-12-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,64400
+299,2022-12-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4650
+300,2022-12-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,8800
+301,2022-12-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,December SaaS Subscription,REVENUE,20000
+302,2022-12-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,55000
+303,2022-12-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5200
+304,2022-12-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,7800
+305,2022-12-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,47000
+306,2022-12-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,88500
+307,2022-12-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,68000
+308,2022-12-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,57500
+309,2022-12-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,3760
+310,2022-12-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7080
+311,2022-12-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5440
+312,2022-12-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4600
+313,2022-12-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,9300
+314,2022-12-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,17500
+315,2022-12-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,13400
+316,2022-12-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,11300
+317,2022-12-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,880
+318,2022-12-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,35800
+319,2022-12-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1650
+320,2022-12-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,8800
+321,2022-12-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2600
+322,2023-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,January SaaS Subscription,REVENUE,50800
+323,2023-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,January SaaS Subscription,REVENUE,43500
+324,2023-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,January SaaS Subscription,REVENUE,24200
+325,2023-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,January SaaS Subscription,REVENUE,16800
+326,2023-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,January SaaS Subscription,REVENUE,29200
+327,2023-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,73000
+328,2023-01-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,89000
+329,2023-01-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - January,EXPENSES,34500
+330,2023-01-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,6900
+331,2023-01-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,18000
+332,2023-01-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,9800
+333,2023-01-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2200
+334,2023-01-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1700
+335,2023-01-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,4900
+336,2023-01-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16000
+337,2023-01-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,3100
+338,2023-01-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,2900
+339,2023-01-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,62300
+340,2023-01-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4800
+341,2023-01-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9000
+342,2023-01-10,61010,Lodging,S&M,Sales & Marketing,Expense,Marriott,Sales Team Travel,EXPENSES,4200
+343,2023-01-10,61020,Meals & Entertainment,S&M,Sales & Marketing,Expense,Various,Client Meetings,EXPENSES,2300
+344,2023-01-10,61030,Travel,S&M,Sales & Marketing,Expense,United,Flights - Sales Team,EXPENSES,3200
+345,2023-01-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,January SaaS Subscription,REVENUE,19800
+346,2023-01-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,54000
+347,2023-01-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5400
+348,2023-01-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8000
+349,2023-01-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,48500
+350,2023-01-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,91000
+351,2023-01-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,70000
+352,2023-01-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,59000
+353,2023-01-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,3880
+354,2023-01-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7280
+355,2023-01-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5600
+356,2023-01-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4720
+357,2023-01-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,9700
+358,2023-01-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18200
+359,2023-01-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,13900
+360,2023-01-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,11700
+361,2023-01-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,900
+362,2023-01-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,32500
+363,2023-01-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1700
+364,2023-01-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9000
+365,2023-01-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2700
+366,2023-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,February SaaS Subscription,REVENUE,51200
+367,2023-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,February SaaS Subscription,REVENUE,44000
+368,2023-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,February SaaS Subscription,REVENUE,24500
+369,2023-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,February SaaS Subscription,REVENUE,17000
+370,2023-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,February SaaS Subscription,REVENUE,29500
+371,2023-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,February SaaS Subscription,REVENUE,35000
+372,2023-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,75000
+373,2023-02-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,90000
+374,2023-02-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - February,EXPENSES,35200
+375,2023-02-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,7100
+376,2023-02-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,18500
+377,2023-02-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,10000
+378,2023-02-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2200
+379,2023-02-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1700
+380,2023-02-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,4900
+381,2023-02-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16000
+382,2023-02-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,3200
+383,2023-02-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3000
+384,2023-02-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,63000
+385,2023-02-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4800
+386,2023-02-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9000
+387,2023-02-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,February SaaS Subscription,REVENUE,20000
+388,2023-02-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,55500
+389,2023-02-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5400
+390,2023-02-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8000
+391,2023-02-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,48500
+392,2023-02-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,91000
+393,2023-02-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,70000
+394,2023-02-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,59000
+395,2023-02-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,3880
+396,2023-02-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7280
+397,2023-02-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5600
+398,2023-02-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4720
+399,2023-02-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,9700
+400,2023-02-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18200
+401,2023-02-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,13900
+402,2023-02-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,11700
+403,2023-02-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,900
+404,2023-02-28,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,33500
+405,2023-02-28,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1700
+406,2023-02-28,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9000
+407,2023-02-28,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2700
+408,2023-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,March SaaS Subscription,REVENUE,51800
+409,2023-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,March SaaS Subscription,REVENUE,44500
+410,2023-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,March SaaS Subscription,REVENUE,24800
+411,2023-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,March SaaS Subscription,REVENUE,17200
+412,2023-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,March SaaS Subscription,REVENUE,29800
+413,2023-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,March SaaS Subscription,REVENUE,35500
+414,2023-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,77000
+415,2023-03-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,92000
+416,2023-03-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - March,EXPENSES,36000
+417,2023-03-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,7300
+418,2023-03-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,19000
+419,2023-03-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,10200
+420,2023-03-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2200
+421,2023-03-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1700
+422,2023-03-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,4900
+423,2023-03-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16000
+424,2023-03-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,3300
+425,2023-03-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3100
+426,2023-03-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,64400
+427,2023-03-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4800
+428,2023-03-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9000
+429,2023-03-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,March SaaS Subscription,REVENUE,20200
+430,2023-03-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,57000
+431,2023-03-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5400
+432,2023-03-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8000
+433,2023-03-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,48500
+434,2023-03-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,91000
+435,2023-03-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,70000
+436,2023-03-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,59000
+437,2023-03-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,3880
+438,2023-03-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7280
+439,2023-03-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5600
+440,2023-03-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4720
+441,2023-03-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,9700
+442,2023-03-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18200
+443,2023-03-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,13900
+444,2023-03-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,11700
+445,2023-03-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,900
+446,2023-03-15,61010,Lodging,S&M,Sales & Marketing,Expense,Marriott,Sales Team Travel,EXPENSES,4000
+447,2023-03-15,61020,Meals & Entertainment,S&M,Sales & Marketing,Expense,Various,Client Meetings,EXPENSES,2200
+448,2023-03-15,61030,Travel,S&M,Sales & Marketing,Expense,United,Flights - Sales Team,EXPENSES,3100
+449,2023-03-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,34500
+450,2023-03-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1750
+451,2023-03-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9000
+452,2023-03-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2700
+453,2023-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,April SaaS Subscription,REVENUE,52500
+454,2023-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,April SaaS Subscription,REVENUE,45000
+455,2023-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,April SaaS Subscription,REVENUE,25200
+456,2023-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,April SaaS Subscription,REVENUE,17500
+457,2023-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,April SaaS Subscription,REVENUE,30200
+458,2023-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,April SaaS Subscription,REVENUE,36000
+459,2023-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,79000
+460,2023-04-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,94000
+461,2023-04-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - April,EXPENSES,36800
+462,2023-04-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,7500
+463,2023-04-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,19500
+464,2023-04-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,10500
+465,2023-04-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2200
+466,2023-04-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1700
+467,2023-04-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,4900
+468,2023-04-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16000
+469,2023-04-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,3300
+470,2023-04-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3200
+471,2023-04-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,65800
+472,2023-04-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4800
+473,2023-04-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9000
+474,2023-04-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,April SaaS Subscription,REVENUE,20500
+475,2023-04-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,58500
+476,2023-04-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5400
+477,2023-04-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8000
+478,2023-04-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,49500
+479,2023-04-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,93000
+480,2023-04-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,71500
+481,2023-04-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,60500
+482,2023-04-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,3960
+483,2023-04-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7440
+484,2023-04-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5720
+485,2023-04-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4840
+486,2023-04-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,9700
+487,2023-04-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18200
+488,2023-04-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,13900
+489,2023-04-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,11700
+490,2023-04-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,900
+491,2023-04-30,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,35500
+492,2023-04-30,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1750
+493,2023-04-30,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9000
+494,2023-04-30,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2700
+495,2023-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,May SaaS Subscription,REVENUE,53200
+496,2023-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,May SaaS Subscription,REVENUE,45800
+497,2023-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,May SaaS Subscription,REVENUE,25800
+498,2023-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,May SaaS Subscription,REVENUE,17800
+499,2023-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,May SaaS Subscription,REVENUE,30800
+500,2023-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,May SaaS Subscription,REVENUE,36500
+501,2023-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,81000
+502,2023-05-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,96000
+503,2023-05-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - May,EXPENSES,37500
+504,2023-05-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,7700
+505,2023-05-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,20000
+506,2023-05-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,10800
+507,2023-05-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2200
+508,2023-05-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1700
+509,2023-05-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,4900
+510,2023-05-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16000
+511,2023-05-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,3400
+512,2023-05-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3300
+513,2023-05-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,67200
+514,2023-05-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4800
+515,2023-05-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9000
+516,2023-05-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,May SaaS Subscription,REVENUE,20800
+517,2023-05-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,60000
+518,2023-05-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5400
+519,2023-05-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8000
+520,2023-05-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,49500
+521,2023-05-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,93000
+522,2023-05-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,71500
+523,2023-05-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,60500
+524,2023-05-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,3960
+525,2023-05-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7440
+526,2023-05-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5720
+527,2023-05-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4840
+528,2023-05-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,9700
+529,2023-05-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18200
+530,2023-05-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,13900
+531,2023-05-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,11700
+532,2023-05-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,900
+533,2023-05-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,36500
+534,2023-05-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1800
+535,2023-05-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9000
+536,2023-05-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2700
+537,2023-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,June SaaS Subscription,REVENUE,54000
+538,2023-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,June SaaS Subscription,REVENUE,46500
+539,2023-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,June SaaS Subscription,REVENUE,26200
+540,2023-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,June SaaS Subscription,REVENUE,18200
+541,2023-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,June SaaS Subscription,REVENUE,31500
+542,2023-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,June SaaS Subscription,REVENUE,37000
+543,2023-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,June SaaS Subscription,REVENUE,42000
+544,2023-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,83000
+545,2023-06-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,98000
+546,2023-06-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - June,EXPENSES,38500
+547,2023-06-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,7900
+548,2023-06-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,20500
+549,2023-06-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,11000
+550,2023-06-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2200
+551,2023-06-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1700
+552,2023-06-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,4900
+553,2023-06-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16000
+554,2023-06-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,3500
+555,2023-06-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3400
+556,2023-06-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,68600
+557,2023-06-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4800
+558,2023-06-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9000
+559,2023-06-10,61010,Lodging,S&M,Sales & Marketing,Expense,Marriott,Sales Team Travel,EXPENSES,4300
+560,2023-06-10,61020,Meals & Entertainment,S&M,Sales & Marketing,Expense,Various,Client Meetings,EXPENSES,2400
+561,2023-06-10,61030,Travel,S&M,Sales & Marketing,Expense,United,Flights - Sales Team,EXPENSES,3300
+562,2023-06-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,June SaaS Subscription,REVENUE,21200
+563,2023-06-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,61500
+564,2023-06-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5400
+565,2023-06-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8000
+566,2023-06-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,50500
+567,2023-06-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,95000
+568,2023-06-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,73000
+569,2023-06-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,62000
+570,2023-06-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4040
+571,2023-06-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7600
+572,2023-06-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5840
+573,2023-06-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4960
+574,2023-06-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,9700
+575,2023-06-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18200
+576,2023-06-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,13900
+577,2023-06-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,11700
+578,2023-06-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,900
+579,2023-06-30,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,37800
+580,2023-06-30,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1800
+581,2023-06-30,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9000
+582,2023-06-30,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2700
+583,2023-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,July SaaS Subscription,REVENUE,54800
+584,2023-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,July SaaS Subscription,REVENUE,47200
+585,2023-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,July SaaS Subscription,REVENUE,26800
+586,2023-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,July SaaS Subscription,REVENUE,18500
+587,2023-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,July SaaS Subscription,REVENUE,32000
+588,2023-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,July SaaS Subscription,REVENUE,37800
+589,2023-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,July SaaS Subscription,REVENUE,42800
+590,2023-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,85000
+591,2023-07-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,99500
+592,2023-07-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - July,EXPENSES,39500
+593,2023-07-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,8100
+594,2023-07-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,21000
+595,2023-07-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,11200
+596,2023-07-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+597,2023-07-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+598,2023-07-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+599,2023-07-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+600,2023-07-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,3600
+601,2023-07-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3500
+602,2023-07-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,69600
+603,2023-07-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+604,2023-07-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+605,2023-07-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,July SaaS Subscription,REVENUE,21800
+606,2023-07-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,63000
+607,2023-07-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+608,2023-07-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+609,2023-07-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,50500
+610,2023-07-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,95000
+611,2023-07-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,73000
+612,2023-07-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,62000
+613,2023-07-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4040
+614,2023-07-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7600
+615,2023-07-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5840
+616,2023-07-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,4960
+617,2023-07-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+618,2023-07-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+619,2023-07-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+620,2023-07-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+621,2023-07-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+622,2023-07-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,38500
+623,2023-07-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1850
+624,2023-07-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+625,2023-07-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+626,2023-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,August SaaS Subscription,REVENUE,55500
+627,2023-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,August SaaS Subscription,REVENUE,47800
+628,2023-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,August SaaS Subscription,REVENUE,27200
+629,2023-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,August SaaS Subscription,REVENUE,18800
+630,2023-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,August SaaS Subscription,REVENUE,32500
+631,2023-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,August SaaS Subscription,REVENUE,38500
+632,2023-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,August SaaS Subscription,REVENUE,43500
+633,2023-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,87000
+634,2023-08-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,101000
+635,2023-08-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - August,EXPENSES,40500
+636,2023-08-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,8300
+637,2023-08-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,21500
+638,2023-08-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,11500
+639,2023-08-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+640,2023-08-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+641,2023-08-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+642,2023-08-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+643,2023-08-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,3700
+644,2023-08-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3600
+645,2023-08-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,70700
+646,2023-08-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+647,2023-08-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+648,2023-08-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,August SaaS Subscription,REVENUE,22200
+649,2023-08-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,64500
+650,2023-08-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+651,2023-08-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+652,2023-08-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,51500
+653,2023-08-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,97000
+654,2023-08-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,74500
+655,2023-08-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,63500
+656,2023-08-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4120
+657,2023-08-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7760
+658,2023-08-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5960
+659,2023-08-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5080
+660,2023-08-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+661,2023-08-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+662,2023-08-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+663,2023-08-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+664,2023-08-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+665,2023-08-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,39500
+666,2023-08-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1850
+667,2023-08-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+668,2023-08-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+669,2023-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,September SaaS Subscription,REVENUE,56200
+670,2023-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,September SaaS Subscription,REVENUE,48500
+671,2023-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,September SaaS Subscription,REVENUE,27800
+672,2023-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,September SaaS Subscription,REVENUE,19200
+673,2023-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,September SaaS Subscription,REVENUE,33000
+674,2023-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,September SaaS Subscription,REVENUE,39200
+675,2023-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,September SaaS Subscription,REVENUE,44200
+676,2023-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,89000
+677,2023-09-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,103000
+678,2023-09-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - September,EXPENSES,41500
+679,2023-09-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,8500
+680,2023-09-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,22000
+681,2023-09-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,11800
+682,2023-09-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+683,2023-09-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+684,2023-09-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+685,2023-09-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+686,2023-09-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,3800
+687,2023-09-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3700
+688,2023-09-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,72100
+689,2023-09-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+690,2023-09-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+691,2023-09-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,September SaaS Subscription,REVENUE,22800
+692,2023-09-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,66000
+693,2023-09-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+694,2023-09-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+695,2023-09-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,51500
+696,2023-09-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,97000
+697,2023-09-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,74500
+698,2023-09-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,63500
+699,2023-09-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4120
+700,2023-09-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7760
+701,2023-09-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,5960
+702,2023-09-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5080
+703,2023-09-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+704,2023-09-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+705,2023-09-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+706,2023-09-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+707,2023-09-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+708,2023-09-15,61010,Lodging,S&M,Sales & Marketing,Expense,Marriott,Sales Team Travel,EXPENSES,4200
+709,2023-09-15,61020,Meals & Entertainment,S&M,Sales & Marketing,Expense,Various,Client Meetings,EXPENSES,2300
+710,2023-09-15,61030,Travel,S&M,Sales & Marketing,Expense,United,Flights - Sales Team,EXPENSES,3200
+711,2023-09-30,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,40500
+712,2023-09-30,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1900
+713,2023-09-30,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+714,2023-09-30,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+715,2023-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,October SaaS Subscription,REVENUE,57000
+716,2023-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,October SaaS Subscription,REVENUE,49200
+717,2023-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,October SaaS Subscription,REVENUE,28500
+718,2023-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,October SaaS Subscription,REVENUE,19800
+719,2023-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,October SaaS Subscription,REVENUE,33800
+720,2023-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,October SaaS Subscription,REVENUE,40000
+721,2023-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,October SaaS Subscription,REVENUE,45000
+722,2023-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,91500
+723,2023-10-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,105000
+724,2023-10-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - October,EXPENSES,42500
+725,2023-10-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,8700
+726,2023-10-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,25000
+727,2023-10-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,12500
+728,2023-10-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+729,2023-10-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+730,2023-10-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+731,2023-10-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+732,2023-10-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,3900
+733,2023-10-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3800
+734,2023-10-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,73500
+735,2023-10-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+736,2023-10-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+737,2023-10-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,October SaaS Subscription,REVENUE,23500
+738,2023-10-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,68000
+739,2023-10-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+740,2023-10-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+741,2023-10-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,52500
+742,2023-10-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,99000
+743,2023-10-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,76000
+744,2023-10-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,65000
+745,2023-10-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4200
+746,2023-10-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7920
+747,2023-10-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6080
+748,2023-10-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5200
+749,2023-10-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+750,2023-10-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+751,2023-10-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+752,2023-10-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+753,2023-10-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+754,2023-10-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,42000
+755,2023-10-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1900
+756,2023-10-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+757,2023-10-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+758,2023-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,November SaaS Subscription,REVENUE,58000
+759,2023-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,November SaaS Subscription,REVENUE,50000
+760,2023-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,November SaaS Subscription,REVENUE,29200
+761,2023-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,November SaaS Subscription,REVENUE,20500
+762,2023-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,November SaaS Subscription,REVENUE,34500
+763,2023-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,November SaaS Subscription,REVENUE,41000
+764,2023-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,November SaaS Subscription,REVENUE,46000
+765,2023-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,94000
+766,2023-11-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,108000
+767,2023-11-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - November,EXPENSES,43500
+768,2023-11-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,8900
+769,2023-11-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,28000
+770,2023-11-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,13500
+771,2023-11-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+772,2023-11-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+773,2023-11-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+774,2023-11-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+775,2023-11-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4000
+776,2023-11-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3900
+777,2023-11-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,75600
+778,2023-11-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+779,2023-11-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+780,2023-11-10,61010,Lodging,S&M,Sales & Marketing,Expense,Marriott,Sales Team Travel,EXPENSES,4400
+781,2023-11-10,61020,Meals & Entertainment,S&M,Sales & Marketing,Expense,Various,Client Meetings,EXPENSES,2500
+782,2023-11-10,61030,Travel,S&M,Sales & Marketing,Expense,United,Flights - Sales Team,EXPENSES,3400
+783,2023-11-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,November SaaS Subscription,REVENUE,24200
+784,2023-11-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,70500
+785,2023-11-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+786,2023-11-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+787,2023-11-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,52500
+788,2023-11-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,99000
+789,2023-11-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,76000
+790,2023-11-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,65000
+791,2023-11-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4200
+792,2023-11-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7920
+793,2023-11-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6080
+794,2023-11-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5200
+795,2023-11-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+796,2023-11-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+797,2023-11-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+798,2023-11-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+799,2023-11-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+800,2023-11-30,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,43800
+801,2023-11-30,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1950
+802,2023-11-30,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+803,2023-11-30,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+804,2023-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,December SaaS Subscription,REVENUE,59000
+805,2023-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,December SaaS Subscription,REVENUE,51000
+806,2023-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,December SaaS Subscription,REVENUE,30000
+807,2023-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,December SaaS Subscription,REVENUE,21000
+808,2023-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,December SaaS Subscription,REVENUE,35500
+809,2023-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,December SaaS Subscription,REVENUE,42000
+810,2023-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,December SaaS Subscription,REVENUE,47000
+811,2023-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,97000
+812,2023-12-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,112000
+813,2023-12-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - December,EXPENSES,44500
+814,2023-12-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,9200
+815,2023-12-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,32000
+816,2023-12-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,14500
+817,2023-12-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+818,2023-12-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+819,2023-12-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+820,2023-12-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+821,2023-12-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4100
+822,2023-12-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,4100
+823,2023-12-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,78400
+824,2023-12-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+825,2023-12-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+826,2023-12-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,December SaaS Subscription,REVENUE,25000
+827,2023-12-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,73000
+828,2023-12-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+829,2023-12-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+830,2023-12-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,52500
+831,2023-12-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,99000
+832,2023-12-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,76000
+833,2023-12-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,65000
+834,2023-12-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4200
+835,2023-12-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7920
+836,2023-12-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6080
+837,2023-12-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5200
+838,2023-12-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+839,2023-12-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+840,2023-12-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+841,2023-12-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+842,2023-12-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+843,2023-12-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,45500
+844,2023-12-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1950
+845,2023-12-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+846,2023-12-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+847,2024-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,January SaaS Subscription,REVENUE,58500
+848,2024-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,January SaaS Subscription,REVENUE,50500
+849,2024-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,January SaaS Subscription,REVENUE,29800
+850,2024-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,January SaaS Subscription,REVENUE,20800
+851,2024-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,January SaaS Subscription,REVENUE,35000
+852,2024-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,January SaaS Subscription,REVENUE,41500
+853,2024-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,January SaaS Subscription,REVENUE,46500
+854,2024-01-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,95000
+855,2024-01-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,110000
+856,2024-01-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - January,EXPENSES,44000
+857,2024-01-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,9000
+858,2024-01-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,25000
+859,2024-01-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,12000
+860,2024-01-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+861,2024-01-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+862,2024-01-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+863,2024-01-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+864,2024-01-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4000
+865,2024-01-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3800
+866,2024-01-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,77000
+867,2024-01-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+868,2024-01-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+869,2024-01-10,61010,Lodging,S&M,Sales & Marketing,Expense,Marriott,Sales Team Travel,EXPENSES,4500
+870,2024-01-10,61020,Meals & Entertainment,S&M,Sales & Marketing,Expense,Various,Client Meetings,EXPENSES,2500
+871,2024-01-10,61030,Travel,S&M,Sales & Marketing,Expense,United,Flights - Sales Team,EXPENSES,3500
+872,2024-01-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,January SaaS Subscription,REVENUE,24800
+873,2024-01-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,71000
+874,2024-01-15,60300,Conferences & Events,S&M,Sales & Marketing,Bill,TechConf,Conference Registration,EXPENSES,12000
+875,2024-01-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+876,2024-01-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+877,2024-01-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,52500
+878,2024-01-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,99000
+879,2024-01-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,76000
+880,2024-01-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,65000
+881,2024-01-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4200
+882,2024-01-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7920
+883,2024-01-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6080
+884,2024-01-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5200
+885,2024-01-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+886,2024-01-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+887,2024-01-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+888,2024-01-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+889,2024-01-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+890,2024-01-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,44000
+891,2024-01-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1950
+892,2024-01-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+893,2024-01-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+894,2024-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,February SaaS Subscription,REVENUE,59200
+895,2024-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,February SaaS Subscription,REVENUE,51200
+896,2024-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,February SaaS Subscription,REVENUE,30500
+897,2024-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,February SaaS Subscription,REVENUE,21200
+898,2024-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,February SaaS Subscription,REVENUE,35800
+899,2024-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,February SaaS Subscription,REVENUE,42000
+900,2024-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,February SaaS Subscription,REVENUE,47200
+901,2024-02-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,96500
+902,2024-02-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,112000
+903,2024-02-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - February,EXPENSES,44800
+904,2024-02-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,9200
+905,2024-02-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,24000
+906,2024-02-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,11800
+907,2024-02-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+908,2024-02-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+909,2024-02-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+910,2024-02-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+911,2024-02-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4100
+912,2024-02-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,3900
+913,2024-02-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,78400
+914,2024-02-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+915,2024-02-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+916,2024-02-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,February SaaS Subscription,REVENUE,25200
+917,2024-02-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,72500
+918,2024-02-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+919,2024-02-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+920,2024-02-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,52500
+921,2024-02-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,99000
+922,2024-02-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,76000
+923,2024-02-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,65000
+924,2024-02-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4200
+925,2024-02-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,7920
+926,2024-02-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6080
+927,2024-02-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5200
+928,2024-02-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+929,2024-02-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+930,2024-02-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+931,2024-02-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+932,2024-02-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+933,2024-02-29,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,44800
+934,2024-02-29,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,1950
+935,2024-02-29,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+936,2024-02-29,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+937,2024-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,March SaaS Subscription,REVENUE,60000
+938,2024-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,March SaaS Subscription,REVENUE,52000
+939,2024-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,March SaaS Subscription,REVENUE,31200
+940,2024-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,March SaaS Subscription,REVENUE,21800
+941,2024-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,March SaaS Subscription,REVENUE,36500
+942,2024-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,March SaaS Subscription,REVENUE,42800
+943,2024-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,March SaaS Subscription,REVENUE,48000
+944,2024-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataVision Corp,March SaaS Subscription,REVENUE,25000
+945,2024-03-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,98500
+946,2024-03-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,114000
+947,2024-03-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - March,EXPENSES,45800
+948,2024-03-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,9400
+949,2024-03-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,24500
+950,2024-03-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,12000
+951,2024-03-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+952,2024-03-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+953,2024-03-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+954,2024-03-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+955,2024-03-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4100
+956,2024-03-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,4000
+957,2024-03-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,79800
+958,2024-03-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+959,2024-03-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+960,2024-03-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,March SaaS Subscription,REVENUE,25800
+961,2024-03-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,74000
+962,2024-03-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+963,2024-03-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+964,2024-03-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,53500
+965,2024-03-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,101000
+966,2024-03-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,77500
+967,2024-03-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,66500
+968,2024-03-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4280
+969,2024-03-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,8080
+970,2024-03-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6200
+971,2024-03-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5320
+972,2024-03-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+973,2024-03-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+974,2024-03-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+975,2024-03-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+976,2024-03-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+977,2024-03-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,45500
+978,2024-03-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,2000
+979,2024-03-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+980,2024-03-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+981,2024-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,April SaaS Subscription,REVENUE,61000
+982,2024-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,April SaaS Subscription,REVENUE,52800
+983,2024-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,April SaaS Subscription,REVENUE,31800
+984,2024-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,April SaaS Subscription,REVENUE,22500
+985,2024-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,April SaaS Subscription,REVENUE,37200
+986,2024-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,April SaaS Subscription,REVENUE,43500
+987,2024-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,April SaaS Subscription,REVENUE,48800
+988,2024-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataVision Corp,April SaaS Subscription,REVENUE,28000
+989,2024-04-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,100500
+990,2024-04-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,116000
+991,2024-04-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - April,EXPENSES,46800
+992,2024-04-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,9600
+993,2024-04-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,25000
+994,2024-04-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,12200
+995,2024-04-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+996,2024-04-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+997,2024-04-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+998,2024-04-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+999,2024-04-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4200
+1000,2024-04-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,4100
+1001,2024-04-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,81200
+1002,2024-04-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+1003,2024-04-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+1004,2024-04-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,April SaaS Subscription,REVENUE,26500
+1005,2024-04-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,76000
+1006,2024-04-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+1007,2024-04-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+1008,2024-04-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,53500
+1009,2024-04-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,101000
+1010,2024-04-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,77500
+1011,2024-04-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,66500
+1012,2024-04-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4280
+1013,2024-04-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,8080
+1014,2024-04-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6200
+1015,2024-04-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5320
+1016,2024-04-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+1017,2024-04-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+1018,2024-04-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+1019,2024-04-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+1020,2024-04-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+1021,2024-04-30,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,46500
+1022,2024-04-30,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,2000
+1023,2024-04-30,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+1024,2024-04-30,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+1025,2024-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,May SaaS Subscription,REVENUE,62000
+1026,2024-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,May SaaS Subscription,REVENUE,53800
+1027,2024-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,May SaaS Subscription,REVENUE,32500
+1028,2024-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,May SaaS Subscription,REVENUE,23000
+1029,2024-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,May SaaS Subscription,REVENUE,38000
+1030,2024-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,May SaaS Subscription,REVENUE,44200
+1031,2024-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,May SaaS Subscription,REVENUE,49500
+1032,2024-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataVision Corp,May SaaS Subscription,REVENUE,30000
+1033,2024-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudScale Tech,May SaaS Subscription,REVENUE,32000
+1034,2024-05-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,102500
+1035,2024-05-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,118000
+1036,2024-05-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - May,EXPENSES,48000
+1037,2024-05-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,9800
+1038,2024-05-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,25500
+1039,2024-05-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,12500
+1040,2024-05-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+1041,2024-05-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+1042,2024-05-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+1043,2024-05-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+1044,2024-05-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4300
+1045,2024-05-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,4200
+1046,2024-05-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,82600
+1047,2024-05-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+1048,2024-05-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+1049,2024-05-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,May SaaS Subscription,REVENUE,27200
+1050,2024-05-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,78000
+1051,2024-05-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+1052,2024-05-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+1053,2024-05-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,54500
+1054,2024-05-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,103000
+1055,2024-05-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,79000
+1056,2024-05-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,68000
+1057,2024-05-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4360
+1058,2024-05-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,8240
+1059,2024-05-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6320
+1060,2024-05-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5440
+1061,2024-05-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+1062,2024-05-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+1063,2024-05-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+1064,2024-05-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+1065,2024-05-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+1066,2024-05-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,47500
+1067,2024-05-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,2000
+1068,2024-05-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+1069,2024-05-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+1070,2024-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,June SaaS Subscription,REVENUE,63000
+1071,2024-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,June SaaS Subscription,REVENUE,54800
+1072,2024-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,June SaaS Subscription,REVENUE,33200
+1073,2024-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,June SaaS Subscription,REVENUE,23500
+1074,2024-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,June SaaS Subscription,REVENUE,38800
+1075,2024-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,June SaaS Subscription,REVENUE,45000
+1076,2024-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,June SaaS Subscription,REVENUE,50500
+1077,2024-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataVision Corp,June SaaS Subscription,REVENUE,32000
+1078,2024-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudScale Tech,June SaaS Subscription,REVENUE,35000
+1079,2024-06-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,104500
+1080,2024-06-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,120000
+1081,2024-06-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - June,EXPENSES,49200
+1082,2024-06-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,10000
+1083,2024-06-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,26000
+1084,2024-06-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,12800
+1085,2024-06-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+1086,2024-06-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+1087,2024-06-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+1088,2024-06-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+1089,2024-06-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4400
+1090,2024-06-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,4300
+1091,2024-06-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,84000
+1092,2024-06-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+1093,2024-06-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+1094,2024-06-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,June SaaS Subscription,REVENUE,28000
+1095,2024-06-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,80000
+1096,2024-06-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+1097,2024-06-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+1098,2024-06-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,54500
+1099,2024-06-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,103000
+1100,2024-06-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,79000
+1101,2024-06-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,68000
+1102,2024-06-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4360
+1103,2024-06-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,8240
+1104,2024-06-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6320
+1105,2024-06-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5440
+1106,2024-06-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+1107,2024-06-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+1108,2024-06-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+1109,2024-06-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+1110,2024-06-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+1111,2024-06-30,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,48500
+1112,2024-06-30,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,2000
+1113,2024-06-30,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+1114,2024-06-30,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+1115,2024-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,July SaaS Subscription,REVENUE,64000
+1116,2024-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,July SaaS Subscription,REVENUE,55800
+1117,2024-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,July SaaS Subscription,REVENUE,34000
+1118,2024-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,July SaaS Subscription,REVENUE,24200
+1119,2024-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,July SaaS Subscription,REVENUE,39500
+1120,2024-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,July SaaS Subscription,REVENUE,45800
+1121,2024-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,July SaaS Subscription,REVENUE,51500
+1122,2024-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataVision Corp,July SaaS Subscription,REVENUE,34000
+1123,2024-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudScale Tech,July SaaS Subscription,REVENUE,37500
+1124,2024-07-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,106500
+1125,2024-07-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,122000
+1126,2024-07-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - July,EXPENSES,50500
+1127,2024-07-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,10200
+1128,2024-07-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,26500
+1129,2024-07-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,13000
+1130,2024-07-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+1131,2024-07-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+1132,2024-07-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+1133,2024-07-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+1134,2024-07-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4500
+1135,2024-07-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,4400
+1136,2024-07-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,85400
+1137,2024-07-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+1138,2024-07-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+1139,2024-07-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,July SaaS Subscription,REVENUE,28800
+1140,2024-07-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,82000
+1141,2024-07-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+1142,2024-07-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+1143,2024-07-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,55500
+1144,2024-07-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,105000
+1145,2024-07-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,80500
+1146,2024-07-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,69500
+1147,2024-07-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4440
+1148,2024-07-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,8400
+1149,2024-07-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6440
+1150,2024-07-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5560
+1151,2024-07-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+1152,2024-07-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+1153,2024-07-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+1154,2024-07-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+1155,2024-07-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+1156,2024-07-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,49500
+1157,2024-07-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,2000
+1158,2024-07-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+1159,2024-07-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+1160,2024-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,August SaaS Subscription,REVENUE,65000
+1161,2024-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,August SaaS Subscription,REVENUE,56800
+1162,2024-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,August SaaS Subscription,REVENUE,34800
+1163,2024-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,August SaaS Subscription,REVENUE,24800
+1164,2024-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,August SaaS Subscription,REVENUE,40200
+1165,2024-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,August SaaS Subscription,REVENUE,46500
+1166,2024-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,August SaaS Subscription,REVENUE,52500
+1167,2024-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataVision Corp,August SaaS Subscription,REVENUE,36000
+1168,2024-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudScale Tech,August SaaS Subscription,REVENUE,40000
+1169,2024-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,SynergySoft Inc,August SaaS Subscription,REVENUE,28000
+1170,2024-08-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,108500
+1171,2024-08-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,124000
+1172,2024-08-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - August,EXPENSES,51800
+1173,2024-08-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,10400
+1174,2024-08-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,27000
+1175,2024-08-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,13200
+1176,2024-08-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+1177,2024-08-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+1178,2024-08-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+1179,2024-08-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+1180,2024-08-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4600
+1181,2024-08-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,4500
+1182,2024-08-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,86800
+1183,2024-08-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+1184,2024-08-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+1185,2024-08-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,August SaaS Subscription,REVENUE,29500
+1186,2024-08-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,84000
+1187,2024-08-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+1188,2024-08-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+1189,2024-08-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,55500
+1190,2024-08-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,105000
+1191,2024-08-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,80500
+1192,2024-08-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,69500
+1193,2024-08-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4440
+1194,2024-08-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,8400
+1195,2024-08-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6440
+1196,2024-08-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5560
+1197,2024-08-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+1198,2024-08-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+1199,2024-08-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+1200,2024-08-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+1201,2024-08-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+1202,2024-08-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,50500
+1203,2024-08-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,2000
+1204,2024-08-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+1205,2024-08-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+1206,2024-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,September SaaS Subscription,REVENUE,66200
+1207,2024-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,September SaaS Subscription,REVENUE,57800
+1208,2024-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,September SaaS Subscription,REVENUE,35500
+1209,2024-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,September SaaS Subscription,REVENUE,25500
+1210,2024-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,September SaaS Subscription,REVENUE,41000
+1211,2024-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,September SaaS Subscription,REVENUE,47500
+1212,2024-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,September SaaS Subscription,REVENUE,53500
+1213,2024-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataVision Corp,September SaaS Subscription,REVENUE,38000
+1214,2024-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudScale Tech,September SaaS Subscription,REVENUE,42500
+1215,2024-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,SynergySoft Inc,September SaaS Subscription,REVENUE,32000
+1216,2024-09-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,110500
+1217,2024-09-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,126000
+1218,2024-09-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - September,EXPENSES,53000
+1219,2024-09-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,10600
+1220,2024-09-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,27500
+1221,2024-09-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,13500
+1222,2024-09-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+1223,2024-09-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+1224,2024-09-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+1225,2024-09-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+1226,2024-09-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4700
+1227,2024-09-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,4600
+1228,2024-09-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,88200
+1229,2024-09-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+1230,2024-09-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+1231,2024-09-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,September SaaS Subscription,REVENUE,30200
+1232,2024-09-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,86000
+1233,2024-09-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+1234,2024-09-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+1235,2024-09-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,55500
+1236,2024-09-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,105000
+1237,2024-09-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,80500
+1238,2024-09-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,69500
+1239,2024-09-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4440
+1240,2024-09-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,8400
+1241,2024-09-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6440
+1242,2024-09-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5560
+1243,2024-09-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+1244,2024-09-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+1245,2024-09-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+1246,2024-09-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+1247,2024-09-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+1248,2024-09-30,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,51500
+1249,2024-09-30,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,2000
+1250,2024-09-30,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+1251,2024-09-30,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+1252,2024-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,October SaaS Subscription,REVENUE,67500
+1253,2024-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,October SaaS Subscription,REVENUE,59000
+1254,2024-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,October SaaS Subscription,REVENUE,36200
+1255,2024-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,October SaaS Subscription,REVENUE,26200
+1256,2024-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,October SaaS Subscription,REVENUE,42000
+1257,2024-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,October SaaS Subscription,REVENUE,48500
+1258,2024-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,October SaaS Subscription,REVENUE,54500
+1259,2024-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataVision Corp,October SaaS Subscription,REVENUE,40000
+1260,2024-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudScale Tech,October SaaS Subscription,REVENUE,45000
+1261,2024-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,SynergySoft Inc,October SaaS Subscription,REVENUE,35000
+1262,2024-10-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,113000
+1263,2024-10-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,128000
+1264,2024-10-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - October,EXPENSES,54500
+1265,2024-10-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,10800
+1266,2024-10-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,30000
+1267,2024-10-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,14000
+1268,2024-10-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+1269,2024-10-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+1270,2024-10-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+1271,2024-10-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+1272,2024-10-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4800
+1273,2024-10-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,4700
+1274,2024-10-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,89600
+1275,2024-10-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+1276,2024-10-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+1277,2024-10-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,October SaaS Subscription,REVENUE,31000
+1278,2024-10-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,88000
+1279,2024-10-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+1280,2024-10-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+1281,2024-10-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,56500
+1282,2024-10-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,107000
+1283,2024-10-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,82000
+1284,2024-10-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,71000
+1285,2024-10-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4520
+1286,2024-10-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,8560
+1287,2024-10-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6560
+1288,2024-10-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5680
+1289,2024-10-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+1290,2024-10-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+1291,2024-10-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+1292,2024-10-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+1293,2024-10-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+1294,2024-10-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,52500
+1295,2024-10-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,2000
+1296,2024-10-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+1297,2024-10-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+1298,2024-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,November SaaS Subscription,REVENUE,68800
+1299,2024-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,November SaaS Subscription,REVENUE,60200
+1300,2024-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,November SaaS Subscription,REVENUE,37000
+1301,2024-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,November SaaS Subscription,REVENUE,27000
+1302,2024-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,November SaaS Subscription,REVENUE,43000
+1303,2024-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,November SaaS Subscription,REVENUE,49500
+1304,2024-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,November SaaS Subscription,REVENUE,55500
+1305,2024-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataVision Corp,November SaaS Subscription,REVENUE,42000
+1306,2024-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudScale Tech,November SaaS Subscription,REVENUE,47500
+1307,2024-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,SynergySoft Inc,November SaaS Subscription,REVENUE,38000
+1308,2024-11-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,116000
+1309,2024-11-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,131000
+1310,2024-11-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - November,EXPENSES,56000
+1311,2024-11-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,11000
+1312,2024-11-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,32500
+1313,2024-11-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,15000
+1314,2024-11-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+1315,2024-11-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+1316,2024-11-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+1317,2024-11-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+1318,2024-11-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,4900
+1319,2024-11-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,4800
+1320,2024-11-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,91700
+1321,2024-11-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+1322,2024-11-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+1323,2024-11-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,November SaaS Subscription,REVENUE,31800
+1324,2024-11-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,90000
+1325,2024-11-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+1326,2024-11-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+1327,2024-11-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,56500
+1328,2024-11-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,107000
+1329,2024-11-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,82000
+1330,2024-11-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,71000
+1331,2024-11-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4520
+1332,2024-11-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,8560
+1333,2024-11-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6560
+1334,2024-11-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5680
+1335,2024-11-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+1336,2024-11-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+1337,2024-11-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+1338,2024-11-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+1339,2024-11-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+1340,2024-11-30,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,54000
+1341,2024-11-30,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,2000
+1342,2024-11-30,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+1343,2024-11-30,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
+1344,2024-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechCorp Inc,December SaaS Subscription,REVENUE,70000
+1345,2024-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataFlow Ltd,December SaaS Subscription,REVENUE,61500
+1346,2024-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudServe Pro,December SaaS Subscription,REVENUE,38000
+1347,2024-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Digital Dynamics,December SaaS Subscription,REVENUE,28000
+1348,2024-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,InnovateX Corp,December SaaS Subscription,REVENUE,44000
+1349,2024-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,TechMatrix Solutions,December SaaS Subscription,REVENUE,50500
+1350,2024-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Quantum Systems,December SaaS Subscription,REVENUE,56500
+1351,2024-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,DataVision Corp,December SaaS Subscription,REVENUE,44000
+1352,2024-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,CloudScale Tech,December SaaS Subscription,REVENUE,50000
+1353,2024-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,SynergySoft Inc,December SaaS Subscription,REVENUE,41000
+1354,2024-12-01,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,119000
+1355,2024-12-01,40200,Product Revenue,G&A,General & Administrative,Invoice,GlobalTech,Product License - Enterprise,REVENUE,135000
+1356,2024-12-01,50100,Web Domain & Hosting Fees,G&A,General & Administrative,Bill,AWS,Cloud Hosting - December,EXPENSES,57500
+1357,2024-12-01,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,11200
+1358,2024-12-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,Google Ads,Monthly Ad Spend,EXPENSES,35000
+1359,2024-12-01,60100,Advertising & Marketing,S&M,Sales & Marketing,Bill,LinkedIn,Premium Advertising,EXPENSES,16000
+1360,2024-12-01,60400,Dues & Subscriptions,G&A,General & Administrative,Bill,Slack,Monthly Subscription,EXPENSES,2300
+1361,2024-12-01,60400,Dues & Subscriptions,R&D,Research & Development,Bill,GitHub,Enterprise License,EXPENSES,1800
+1362,2024-12-01,60500,Insurance,G&A,General & Administrative,Bill,Hartford,Business Insurance,EXPENSES,5100
+1363,2024-12-01,60620,Rent & Lease,G&A,General & Administrative,Bill,WeWork,Office Rent,EXPENSES,16500
+1364,2024-12-01,60630,Utilities,G&A,General & Administrative,Bill,Utility Co,Office Utilities,EXPENSES,5000
+1365,2024-12-05,50200,Merchant Account Fees,G&A,General & Administrative,Bill,Stripe,Payment Processing Fees,EXPENSES,4900
+1366,2024-12-05,50210,Product Costs,G&A,General & Administrative,Bill,Hardware Inc,Product Manufacturing Costs,EXPENSES,94500
+1367,2024-12-05,60710,Accounting Fees,G&A,General & Administrative,Bill,Deloitte,Monthly Accounting Services,EXPENSES,4900
+1368,2024-12-10,60720,Consulting Fees,G&A,General & Administrative,Bill,TechConsult,IT Consulting,EXPENSES,9200
+1369,2024-12-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,AgileTech Solutions,December SaaS Subscription,REVENUE,32500
+1370,2024-12-15,40100,SaaS Revenue,G&A,General & Administrative,Invoice,Various SMB,Monthly SaaS Subscriptions,REVENUE,92000
+1371,2024-12-15,60730,Legal Fees,G&A,General & Administrative,Bill,Legal Corp,Legal Services,EXPENSES,5500
+1372,2024-12-15,60740,Recruiting Fees,G&A,General & Administrative,Bill,TalentCo,Recruiting Services,EXPENSES,8200
+1373,2024-12-15,60810,Salary & Wages,G&A,General & Administrative,Bill,ADP,Payroll - G&A Team,EXPENSES,56500
+1374,2024-12-15,60810,Salary & Wages,R&D,Research & Development,Bill,ADP,Payroll - R&D Team,EXPENSES,107000
+1375,2024-12-15,60810,Salary & Wages,S&M,Sales & Marketing,Bill,ADP,Payroll - Sales Team,EXPENSES,82000
+1376,2024-12-15,60810,Salary & Wages,CS,Customer Support,Bill,ADP,Payroll - Support Team,EXPENSES,71000
+1377,2024-12-15,60820,Payroll Taxes,G&A,General & Administrative,Bill,ADP,Payroll Taxes - G&A,EXPENSES,4520
+1378,2024-12-15,60820,Payroll Taxes,R&D,Research & Development,Bill,ADP,Payroll Taxes - R&D,EXPENSES,8560
+1379,2024-12-15,60820,Payroll Taxes,S&M,Sales & Marketing,Bill,ADP,Payroll Taxes - Sales,EXPENSES,6560
+1380,2024-12-15,60820,Payroll Taxes,CS,Customer Support,Bill,ADP,Payroll Taxes - Support,EXPENSES,5680
+1381,2024-12-15,60830,Health Insurance,G&A,General & Administrative,Bill,UnitedHealth,Health Insurance - G&A,EXPENSES,10100
+1382,2024-12-15,60830,Health Insurance,R&D,Research & Development,Bill,UnitedHealth,Health Insurance - R&D,EXPENSES,18800
+1383,2024-12-15,60830,Health Insurance,S&M,Sales & Marketing,Bill,UnitedHealth,Health Insurance - Sales,EXPENSES,14400
+1384,2024-12-15,60830,Health Insurance,CS,Customer Support,Bill,UnitedHealth,Health Insurance - Support,EXPENSES,12100
+1385,2024-12-15,60840,Payroll Processing Fees,G&A,General & Administrative,Bill,ADP,Payroll Processing Fees,EXPENSES,920
+1386,2024-12-31,60850,Commissions Expense,S&M,Sales & Marketing,Bill,ADP,Sales Commissions,EXPENSES,56000
+1387,2024-12-31,70100,Interest Income,G&A,General & Administrative,Deposit,Bank,Interest Income,REVENUE,2000
+1388,2024-12-31,80100,Depreciation Expense,G&A,General & Administrative,Journal Entry,Monthly Depreciation,Depreciation Expense,EXPENSES,9200
+1389,2024-12-31,80200,Interest Expense,G&A,General & Administrative,Bill,Bank,Loan Interest,EXPENSES,2800
